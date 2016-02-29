@@ -1,1 +1,1 @@
-document.writeln("<div style="display:none;">zencart</div>");
+document.writeln("<div style='display:none;'>zencart</div>");
